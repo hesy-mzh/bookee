@@ -1,0 +1,2 @@
+勘定科目:title of accounts
+仕訳:journalizing
